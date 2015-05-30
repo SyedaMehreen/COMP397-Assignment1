@@ -66,7 +66,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\main.css" />
+    <Content Include="css\game.css" />
     <Content Include="css\reset.css" />
     <Content Include="images\black forest.jpg" />
     <Content Include="images\bog of eternal strench.jpg" />
@@ -80,6 +80,7 @@
     <Content Include="images\path of wiseman.jpg" />
     <Content Include="images\path to the forest.jpg" />
     <Content Include="images\right knocker.jpg" />
+    <Content Include="images\sarah and GK.jpg" />
     <Content Include="images\the junk lady.jpg" />
     <Content Include="images\trap door.jpg" />
     <Content Include="images\vanish wiseness.jpg" />
