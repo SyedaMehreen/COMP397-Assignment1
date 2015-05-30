@@ -68,8 +68,24 @@
   <ItemGroup>
     <Content Include="css\main.css" />
     <Content Include="css\reset.css" />
+    <Content Include="images\black forest.jpg" />
+    <Content Include="images\bog of eternal strench.jpg" />
+    <Content Include="images\brother.jpg" />
+    <Content Include="images\foolish door.jpg" />
+    <Content Include="images\four guards.jpg" />
+    <Content Include="images\labyrinth.jpg" />
+    <Content Include="images\left knocker.jpg" />
+    <Content Include="images\path of darkness.jpg" />
+    <Content Include="images\path of thorns.jpg" />
+    <Content Include="images\path of wiseman.jpg" />
+    <Content Include="images\path to the forest.jpg" />
+    <Content Include="images\right knocker.jpg" />
+    <Content Include="images\the junk lady.jpg" />
+    <Content Include="images\trap door.jpg" />
+    <Content Include="images\vanish wiseness.jpg" />
     <Content Include="index.html" />
-    <Content Include="js\impress.js" />
+    <Content Include="Scripts\lib\game.js" />
+    <Content Include="Scripts\lib\impress.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
